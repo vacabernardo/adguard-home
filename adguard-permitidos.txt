@@ -1,2 +1,3 @@
 @@|partnerstack.com^$important
 @@|try.webflow.com^$important
+@@|dash.partnerstack.com^$important
