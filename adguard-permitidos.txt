@@ -1,3 +1,9 @@
-@@|partnerstack.com^$important
-@@|try.webflow.com^$important
-@@|dash.partnerstack.com^$important
+partnerstack.com
+try.webflow.com
+dash.partnerstack.com
+partnerstack.com
+sentry.partnerstack.com
+*.partnerstack.com
+*.webflow.com
+*.app.getpostman.com
+*.stripe.com
