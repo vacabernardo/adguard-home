@@ -1,9 +1,4 @@
-partnerstack.com
-try.webflow.com
-dash.partnerstack.com
-partnerstack.com
-sentry.partnerstack.com
-*.partnerstack.com
-*.webflow.com
-*.app.getpostman.com
-*.stripe.com
+@@||partnerstack.com^
+@@||webflow.com^
+@@||getpostman.com^
+@@||stripe.com^
