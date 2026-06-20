@@ -1,4 +1,18 @@
-@@||partnerstack.com^
+! =====================================
+! FIRE TV - Bloqueo de actualizaciones
+! =====================================
+||softwareupdates.amazon.com^
+||updates.amazon.com^
+||prod.ota-cloudfront.net^
+
+! CDN que estoy probando
+! Puede afectar descargas de apps
+||d1s31zyz7dcc2d.cloudfront.net^
+
+! =====================================
+! Excepciones para trabajo
+! =====================================
 @@||webflow.com^
-@@||getpostman.com^
 @@||stripe.com^
+@@||partnerstack.com^
+@@||getpostman.com^
