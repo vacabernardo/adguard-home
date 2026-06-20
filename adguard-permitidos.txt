@@ -5,6 +5,17 @@
 ||updates.amazon.com^
 ||prod.ota-cloudfront.net^
 
+! Bloquea anuncios
+
+||fls-na.amazon.com^
+||fls-eu.amazon.com^
+||device-metrics-us.amazon.com^
+||mas-sdk.amazon.com^
+||amzdigital-a.akamaihd.net^
+||aax-us-east.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||d3u2f0x0j2jfgz.cloudfront.net^
+
 ! CDN que estoy probando
 ! Puede afectar descargas de apps
 ||d1s31zyz7dcc2d.cloudfront.net^
@@ -16,3 +27,4 @@
 @@||stripe.com^
 @@||partnerstack.com^
 @@||getpostman.com^
+
